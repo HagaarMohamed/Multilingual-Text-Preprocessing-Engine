@@ -1,0 +1,2 @@
+from .cleaners import (remove_html_tags, remove_tashkeel, remove_tatweel, remove_urls, remove_punctuation, remove_numbers, collapse_whitespace ,
+                       remove_tashkeel, remove_tatweel, normalize_alef, normalize_hamza, normalize_teh_marbuta )  
