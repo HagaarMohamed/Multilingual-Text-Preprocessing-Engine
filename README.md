@@ -12,9 +12,6 @@ A production-ready text preprocessing API supporting **English** and **Arabic**,
 
 - 🇬🇧 **English**: Lowercase, stopword removal, lemmatization (spaCy), stemming (NLTK)
 - 🇸🇦 **Arabic**: Tashkeel removal, tatweel removal, Alef/Hamza normalization (pyarabic)
-- 🌐 **REST API** with automatic Swagger docs
-- 🖥️ **Built-in GUI** — no frontend setup needed
-- 🐳 **Single Docker container** — runs anywhere
 
 ---
 
